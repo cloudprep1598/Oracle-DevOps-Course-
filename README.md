@@ -136,3 +136,18 @@ docker registry
 
 <img width="660" height="302" alt="image" src="https://github.com/user-attachments/assets/eafbe15c-0c18-48d5-9fc3-8971035210f5" />
 
+
+# basic docker commands 
+
+<img width="738" height="367" alt="image" src="https://github.com/user-attachments/assets/b80ed13c-4edb-43f3-9bf6-d5c8854892fa" />
+
+----------------------------------------------------------------------------------------------
+
+Docker basic commands  that we will used 
+
+<img width="450" height="516" alt="image" src="https://github.com/user-attachments/assets/d5c793af-657a-4f3d-b1b3-919631ae3e36" />
+
+
+-----------------------------------------------------------------------------------------------
+
+Dockerfile 
