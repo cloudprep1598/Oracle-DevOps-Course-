@@ -377,10 +377,48 @@ docker images
 docker tag [image name of your machine] [container registry new name of image:version]
 docker push [image name with tag]
 
+   
+
 step 5 delete images in local machine
 docker rmi -f ed4   forcefully deleted all images in loal machine
 
 step 6 pull images from container registry 
 docker pull [container registry image name]
 
+---------------------------------------------------------------------------
 
+
+OCIR Image Concepts
+open container initiative 
+- linux foundation project to design open standards for containers
+- to define industry standards around container image formats and runtimes
+- promote and achieve the initiators primary goal
+
+it devided into two parts 
+1. image
+2. runtime
+
+   
+<img width="346" height="172" alt="image" src="https://github.com/user-attachments/assets/17168057-0cf2-4276-ba54-e8a5a59a3d15" />
+
+
+
+<img width="355" height="180" alt="image" src="https://github.com/user-attachments/assets/d728b6b0-922f-4d74-9276-c5f4bbb7ef9b" />
+
+
+<img width="506" height="248" alt="image" src="https://github.com/user-attachments/assets/2bb65119-932f-4ed6-a17b-6d0137ce0bd8" />
+
+
+
+<img width="386" height="193" alt="image" src="https://github.com/user-attachments/assets/becb2ba4-ef48-4f5f-8b54-43ded58a487a" />
+
+
+
+<img width="370" height="192" alt="image" src="https://github.com/user-attachments/assets/7ad4c04a-6769-494e-bff3-26799de54885" />
+
+
+
+<img width="369" height="194" alt="image" src="https://github.com/user-attachments/assets/7ca7ca84-a5cb-4c8d-9013-be5fb4c76e32" />
+
+
+<img width="530" height="275" alt="image" src="https://github.com/user-attachments/assets/f1234cb5-992f-47d5-a34c-f7befaa6973f" />
